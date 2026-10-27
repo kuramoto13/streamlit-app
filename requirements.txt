@@ -52,5 +52,4 @@ tzdata==2026.5
 urllib3==2.8.0
 watchdog==6.0.0
 
-git config --global user.name "kuramoto13"     
-git config --global user.email "mika.kuramoto123@gmail.com"
+
